@@ -1,2 +1,5 @@
-# lapis-theme-slack
-A dark blue theme for Slack.
+# Lapis Theme for Slack
+
+## License
+
+[MIT License](./LICENSE)

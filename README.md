@@ -1,17 +1,8 @@
-<img src="images/header.jpg">
+![Lapis Slack Header](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/header.jpg)
 
-A dark blue theme for Slack.
+<p align="center">A dark blue inspired theme for Slack.</p>
 
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/lapis-slack.png)
-
-Accent color variations:
-
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/amethyst-variant.png)
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/ruby-variant.png)
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/amber-variant.png)
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/peridot-variant.png)
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/aquamarine-variant.png)
-![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/quartz-variant.png)
+![Slack Variants](images/lapis-slack.jpg)
 
 # Installation
 

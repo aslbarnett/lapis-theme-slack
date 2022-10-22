@@ -13,84 +13,11 @@
 
 ![Slack Variants](https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/lapis-slack.jpg)
 
-## 🏙 Lapis Themes
-
-```
-Lapis
-#1B1F27,#121016,#83ABFC,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-
-Amethyst
-#1B1F27,#121016,#D483FC,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-
-Ruby
-#1B1F27,#121016,#FC83AB,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-
-Amber
-#1B1F27,#121016,#FCD483,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-
-Peridot
-#1B1F27,#121016,#ABFC83,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-
-Aquamarine
-#1B1F27,#121016,#83FCD4,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-
-Quartz
-#1B1F27,#121016,#D6E2FF,#1B1F27,#2D3953,#D6E2FF,#ABFC83,#FC699A,#1B1F27,#D6E2FF
-```
-
-## 🌌 Lapis Dark Themes
-
-```
-Lapis Dark
-#15181E,#121016,#83ABFC,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-
-Amethyst Dark
-#15181E,#121016,#D483FC,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-
-Ruby Dark
-#15181E,#121016,#FC83AB,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-
-Amber Dark
-#15181E,#121016,#FCD483,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-
-Peridot Dark
-#15181E,#121016,#ABFC83,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-
-Aquamarine Dark
-#15181E,#121016,#83FCD4,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-
-Quartz Dark
-#15181E,#121016,#D6E2FF,#15181E,#2D3953,#D6E2FF,#ABFC83,#FC699A,#15181E,#D6E2FF
-```
-
-## 🌁 Lapis Light Themes
-
-```
-Lapis Light
-#F5F8FF,#121016,#3366CC,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-
-Amethyst Light
-#F5F8FF,#121016,#9933CC,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-
-Ruby Light
-#F5F8FF,#121016,#CC3366,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-
-Amber Light
-#F5F8FF,#121016,#CC9933,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-
-Peridot Light
-#F5F8FF,#121016,#52A329,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-
-Aquamarine Light
-#F5F8FF,#121016,#29A37A,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-
-Onyx Light
-#F5F8FF,#121016,#1B1F27,#F5F8FF,#EBF1FF,#1B1F27,#52A329,#B82E5C,#F5F8FF,#1B1F27
-```
-
 ## 🚀 Installation
 
-- Select one of the variants listed below and copy it.
+- Either download this repo and / or navigate to the **slack-themes** directory.
+- Open one of the files depending on whether you want **lapis**, **lapis dark** or **lapis light**.
+- Select the color variant of your choice from the file.
 - Open **Slack** and go to **Preferences**.
 - Select **Themes**.
 - Paste the hex values copied from this file into the custom theme hex value input:

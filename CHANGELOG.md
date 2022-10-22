@@ -2,6 +2,10 @@
 
 All notable changes to the "lapis" slack theme will be documented in this file.
 
+## "1.1.1"
+
+- Create theme text files.
+
 ## "1.1.0"
 
 - Add lapis dark themes.

@@ -1,0 +1,27 @@
+{
+  "name": "lapis-theme-slack",
+  "version": "1.0.2",
+  "description": "A dark blue inspired theme for Slack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslbarnett/lapis-theme-slack.git"
+  },
+  "keywords": [
+    "slack",
+    "lapis",
+    "dark blue",
+    "amethyst",
+    "ruby",
+    "amber",
+    "peridot",
+    "aquamarine",
+    "quartz",
+    "theme"
+  ],
+  "author": "Alex Barnett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aslbarnett/lapis-theme-slack/issues"
+  },
+  "homepage": "https://github.com/aslbarnett/lapis-theme-slack#readme"
+}

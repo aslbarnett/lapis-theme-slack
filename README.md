@@ -1,6 +1,4 @@
-<p align="center"><img style="width: 200px" src="https://raw.githubusercontent.com/aslbarnett/lapis-theme-slack/main/images/logo.png"/></p>
-
-# Lapis Theme • Slack
+<img src="images/header.jpg">
 
 A dark blue theme for Slack.
 
